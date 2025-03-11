@@ -11,7 +11,7 @@ CyberLoader es un **loader futurista** con colores **neón**, animaciones suaves
 
 ## 🚀 Preview
 
-![CyberLoader Preview](assets/images/cyberloader-preview.jpeg)
+![CyberLoader Preview](https://github.com/CodeAndNuts/CyberLoader/blob/main/assets/img/cyberloader-preview.jpeg)
 
 ## 🎨 Personalización
 
